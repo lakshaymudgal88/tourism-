@@ -2,52 +2,52 @@
    "badeges":[
       {
          "badgeNo": "1",
-         "badgeName": "plastic",
+         "badge_name": "plastic",
          "badge_url": "https://drive.google.com/uc?id=1__o02HSciqwr41jSkJVdnz0FrSkHv1Fp"
       },   
      {
       "badgeNo": "2",
-       "badgeNamw": "steel",
+       "badge_name": "steel",
          "badge_url": "https://drive.google.com/uc?id=1Ejv1glTkSYkuOjNbgSE9uxpf0Q2SyOiy"
       },
       {
         "badgeNo": "3",
-         "badgeName": "iron",
+         "badge_name": "iron",
          "badge_url": "https://drive.google.com/uc?id=1__o02HSciqwr41jSkJVdnz0FrSkHv1Fp"
       },   
      {
        "badgeNo": "4",
-         "badgeNamw": "bronze",
+         "badge_name": "bronze",
          "badge_url": "https://drive.google.com/uc?id=1Ejv1glTkSYkuOjNbgSE9uxpf0Q2SyOiy"
       },
       {
         "badgeNo": "5",
-         "badgeName": "silver",
+         "badge_name": "silver",
          "badge_url": "https://drive.google.com/uc?id=1__o02HSciqwr41jSkJVdnz0FrSkHv1Fp"
       },   
      {
        "badgeNo": "6",
-         "badgeNamw": "gold",
+         "badge_name": "gold",
          "badge_url": "https://drive.google.com/uc?id=1Ejv1glTkSYkuOjNbgSE9uxpf0Q2SyOiy"
       },
       {
         "badgeNo": "7",
-         "badgeName": "diamond",
+         "badge_name": "diamond",
          "badge_url": "https://drive.google.com/uc?id=1__o02HSciqwr41jSkJVdnz0FrSkHv1Fp"
       },   
      {
        "badgeNo": "8",
-         "badgeNamw": "platinum",
+         "badge_name": "platinum",
          "badge_url": "https://drive.google.com/uc?id=1Ejv1glTkSYkuOjNbgSE9uxpf0Q2SyOiy"
       },
       {
         "badgeNo": "9",
-         "badgeName": "ethereum",
+         "badge_name": "ethereum",
          "badge_url": "https://drive.google.com/uc?id=1__o02HSciqwr41jSkJVdnz0FrSkHv1Fp"
       },   
      {
        "badgeNo": "10",
-         "badgeNamw": "sofTechVIP",
+         "badge_name": "sofTechVIP",
          "badge_url": "https://drive.google.com/uc?id=1Ejv1glTkSYkuOjNbgSE9uxpf0Q2SyOiy"
       },
    ]
