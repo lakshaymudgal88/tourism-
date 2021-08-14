@@ -1,12 +1,136 @@
 {
    "bg_img":[
+     {
+         "no": "33",
+         "img_url": "https://drive.google.com/uc?id=1xJgNBR2-RFvpp2b_qWGgFm8fclfMQ40I"
+      },
       {
-         "no": "1",
-         "img_url": "https://drive.google.com/uc?id=1__o02HSciqwr41jSkJVdnz0FrSkHv1Fp"
+         "no": "32",
+         "img_url": "https://drive.google.com/uc?id=1xCT57vm0f4AzGj5agwTJQWoRRaHspzbj"
       },   
      {
+         "no": "31",
+         "img_url": "https://drive.google.com/uc?id=1x3KzQtvAOioIPJWpdLmHuV67_0k5nWO-"
+      },
+      {
+         "no": "30",
+         "img_url": "https://drive.google.com/uc?id=1x48mJmEk7agk8Zw3FJEVBSk4kQ6vDZvH"
+      },   
+     {
+         "no": "29",
+         "img_url": "https://drive.google.com/uc?id=1x3zk00CtPEAh7p4O3sVJ71YMxhA98IVV"
+      },
+      {
+         "no": "28",
+         "img_url": "https://drive.google.com/uc?id=1x9QSJXY04dqmi9YfXRK9NVV9HDSeQB1r"
+      },   
+     {
+         "no": "27",
+         "img_url": "https://drive.google.com/uc?id=1x96JUSgrKmWsrC9DEX0k-BaRmbDbtWWv"
+      },
+      {
+         "no": "26",
+         "img_url": "https://drive.google.com/uc?id=1xBdkdOvnHzDt6t9rkK-AQk9VThAw2ZBG"
+      },   
+     {
+         "no": "25",
+         "img_url": "https://drive.google.com/uc?id=1xA60EBmmfh032lcZFIEyKBASWQSk-z12"
+      },
+      {
+         "no": "24",
+         "img_url": "https://drive.google.com/uc?id=1x3KSDrEw_skGeWfSfV5MseuwPjpZB1EX"
+      },   
+     {
+         "no": "23",
+         "img_url": "https://drive.google.com/uc?id=1x1XzhuG7IJ9Dieo5CbBG6QBHGRh0Brlc"
+      },
+      {
+         "no": "22",
+         "img_url": "https://drive.google.com/uc?id=1x0mI6IQzD4P6oV90xjni4-jbElUP8bqm"
+      },   
+     {
+         "no": "21",
+         "img_url": "https://drive.google.com/uc?id=1x0GsV3uPxWAV6j7KMJYLIrRzlKMDV9Do"
+      },
+      {
+         "no": "20",
+         "img_url": "https://drive.google.com/uc?id=1xKh90ooMm4twUEFJODgO3xNnRGYoPoHS"
+      },   
+     {
+         "no": "19",
+         "img_url": "https://drive.google.com/uc?id=1xNgFQEKsq2WDrMqB4UG2iWK_8dG8bTh2"
+      },
+      {
+         "no": "18",
+         "img_url": "https://drive.google.com/uc?id=1xOyN-CR9ntdFQLGdxBDTTcx9tmPXLpRB"
+      },   
+     {
+         "no": "17",
+         "img_url": "https://drive.google.com/uc?id=1xPu_a1NV2j5WLYzLWCGaXXSSyiQuFtyI"
+      },
+      {
+         "no": "16",
+         "img_url": "https://drive.google.com/uc?id=1xQ56MiR6t14_rAAzvEDbFLwNG7a-QcE_"
+      },   
+     {
+         "no": "15",
+         "img_url": "https://drive.google.com/uc?id=1xRDUbeWbezF_LMScWq7cHQM9R7MpxWj0"
+      },
+      {
+         "no": "14",
+         "img_url": "https://drive.google.com/uc?id=1xKSs52ga9kSdwvXRBD5mkbDvGPYOajbY"
+      },   
+     {
+         "no": "13",
+         "img_url": "https://drive.google.com/uc?id=1xol6_ZKX3IAjFUkZwJmTumrTkKcl-ROr"
+      },
+      {
+         "no": "12",
+         "img_url": "https://drive.google.com/uc?id=1xm6ucukIpxS5WmP3ejJaJX5eqeP8Waqt"
+      },   
+     {
+         "no": "11",
+         "img_url": "https://drive.google.com/uc?id=1xkhd6puOGf71rNGdVpJZBPxcqYYUAAOt"
+      },
+      {
+         "no": "10",
+         "img_url": "https://drive.google.com/uc?id=1xeX9lytrjjDZFkQDLtJ1UFGkekfcMhSc"
+      },   
+     {
+         "no": "9",
+         "img_url": "https://drive.google.com/uc?id=1xcpoYZGGY8Ekj43pkGcJQGvMjFVfZec_"
+      },
+      {
+         "no": "8",
+         "img_url": "https://drive.google.com/uc?id=1xbuCDk4QmhF7q6KzI_Vsd2_KqqSBU61a"
+      },   
+     {
+         "no": "7",
+         "img_url": "https://drive.google.com/uc?id=1x_qHn4I-PK350Mv3VKDGgOWjeG2Ho7rh"
+      },
+      {
+         "no": "6",
+         "img_url": "https://drive.google.com/uc?id=1xYnsZ3qGQPKMMnsA4fxoK3dMtP7izI-2"
+      },   
+     {
+         "no": "5",
+         "img_url": "https://drive.google.com/uc?id=1xWi1xdSQrDQfEDQLVBG0LyGq2toZn86o"
+      },
+      {
+         "no": "4",
+         "img_url": "https://drive.google.com/uc?id=1xV3_WR1PDnJQMILaSncQC0EHUvyrN5hn"
+      },   
+     {
+         "no": "3",
+         "img_url": "https://drive.google.com/uc?id=1xSpPX83xm3R2f26VTTwCmAumIXhydUql"
+      },
+      {
          "no": "2",
-         "img_url": "https://drive.google.com/uc?id=1Ejv1glTkSYkuOjNbgSE9uxpf0Q2SyOiy"
+         "img_url": "https://drive.google.com/uc?id=1xSWyAwFAyj18QPk_IUNO4oI10F7zyGOp"
+      },   
+     {
+         "no": "1",
+         "img_url": "https://drive.google.com/uc?id=1xRvLRgo_9m9JowwxNN3-bQ-9NeKqxdHp"
       }
    ]
 }
