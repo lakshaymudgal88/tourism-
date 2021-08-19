@@ -69,16 +69,16 @@
          "QuesNo": "14",
          "ques": "For what number of 5 star ratings, which badge is unlocked?",
          "ans": "The following table shows you for what ratings, you unlock which badge:
-                  1. Plastic Badge => 0-49 (5*)
-                  2. Steel Badge => 50-99  (5*)
-                  3. Iron Badge => 100-199 (5*)
-                  4. Bronze Badge => 200-399 (5*)
-                  5. Silver Badge => 400-799 (5*)
-                  6. Gold Badge => 800-1599 (5*)
-                  7. Diamond Badge => 1600-3199 (5*)
-                  8. Platinum Badge => 3200-6399 (5*)
-                  9. Ethereum Badge => 6400-9999 (5*)
-                 10. SofTech VIP Badge => >10000 (5*)"
+             1. Plastic Badge => 0-49 (5*)
+             2. Steel Badge => 50-99  (5*)
+             3. Iron Badge => 100-199 (5*)
+             4. Bronze Badge => 200-399 (5*)
+             5. Silver Badge => 400-799 (5*)
+             6. Gold Badge => 800-1599 (5*)
+             7. Diamond Badge => 1600-3199 (5*)
+             8. Platinum Badge => 3200-6399 (5*)
+             9. Ethereum Badge => 6400-9999 (5*)
+            10. SofTech VIP Badge => >10000 (5*)"
       },   
      {
       "QuesNo": "15",
