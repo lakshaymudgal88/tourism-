@@ -24,69 +24,73 @@
       "QuesNo": "5",
        "ques": "How I created posts?",
          "ans": "When you click on the plus icon, then it displays the screen in which you can create your posts and having multiple editing features and lots of background images, after writing your status, a next button is visible to you, by clicking it, next screen is visible to you. In it, you have to select the category of the post and then simply click on the post button. And your status is posted."
+      },     {
+      "QuesNo": "6",
+       "ques": "Can I post more than one status/shayri in one day?",
+         "ans": "To make the contest and app more interesting, you can post only one status/shayri in one day."
       },
       {
-         "QuesNo": "6",
+         "QuesNo": "7",
          "ques": "Is I copied status/shayri from google or any other places?",
          "ans": "No, we continuously monitor all posts, and if it found cppied from google or elsewhere or also copied from another, at first copied, your post will be deleted and 50 sofcoin will be deducted from your accoount with first warning. If you repeat the same again, then your account will be terminated and never be restored."
       },   
      {
-      "QuesNo": "7",
+      "QuesNo": "8",
        "ques": "If I cann't copy the status/shayri, then how can I write status/shayri?",
          "ans": "You have to make the shayri on your own, with your skills. Using your minnd, you have to create it on your own."
       },
       {
-         "QuesNo": "8",
+         "QuesNo": "9",
          "ques": "What is the use of sofcoin in the app?",
          "ans": "By using, sofcoins, you can earn real cash."
       },   
      {
-      "QuesNo": "9",
+      "QuesNo": "10",
        "ques": "How can I earn using sofcoins?",
          "ans": "Using sofcoins, you can participates in the tournament And by winning in the tournaments, you can earn cash."
       },
       {
-         "QuesNo": "10",
+         "QuesNo": "11",
          "ques": "How can I participate in contests?",
          "ans": "In the 4th icon, when you clicked on it, then can abke to see the differnet contests, like coins contests, cash contests, my contests."
       },   
      {
-      "QuesNo": "11",
+      "QuesNo": "12",
        "ques": "What are coins tournaments. Id any conditoin to participte in these contests?",
          "ans": "You can participate in this type of contests from the first day, if any contest opeb with one condition is that you have enough coins to participate."
       },
       {
-         "QuesNo": "12",
+         "QuesNo": "13",
          "ques": "What is cash contests. Is there any condition to participate in these contests?",
          "ans": "You can earn real cash by participating in these tournaments. Yes, there is one condition, we give you the badge according to the how many 5 star rating your posts get. In the badges you have to achieved the SILVER badge."
       },   
      {
-      "QuesNo": "13",
+      "QuesNo": "14",
        "ques": "What are badges?",
          "ans": "Badges are the special icons you get when reached out to 5 star rating."
       },
       {
-         "QuesNo": "14",
+         "QuesNo": "15",
          "ques": "For what number of 5 star ratings, which badge is unlocked?",
          "ans": "The following table shows you for what ratings, you unlock which badge:
-             1. Plastic Badge => 0-49 (5*)
-             2. Steel Badge => 50-99  (5*)
-             3. Iron Badge => 100-199 (5*)
-             4. Bronze Badge => 200-399 (5*)
-             5. Silver Badge => 400-799 (5*)
-             6. Gold Badge => 800-1599 (5*)
-             7. Diamond Badge => 1600-3199 (5*)
-             8. Platinum Badge => 3200-6399 (5*)
-             9. Ethereum Badge => 6400-9999 (5*)
-            10. SofTech VIP Badge => >10000 (5*)"
+           1. Plastic Badge => 0-49 (5*)
+           2. Steel Badge => 50-99  (5*)
+           3. Iron Badge => 100-199 (5*)
+           4. Bronze Badge => 200-399 (5*)
+           5. Silver Badge => 400-799 (5*)
+           6. Gold Badge => 800-1599 (5*)
+           7. Diamond Badge => 1600-3199 (5*)
+           8. Platinum Badge => 3200-6399 (5*)
+           9. Ethereum Badge => 6400-9999 (5*)
+          10. SofTech VIP Badge => >10000 (5*)"
       },   
      {
-      "QuesNo": "15",
+      "QuesNo": "16",
        "ques": "If I am not unlocked, then before, what can I do?",
          "ans": "You can post your status/shayri and earn sofcoins and participates in coins contests, and these sofcoins are used in cash tournaments too"
       },
       {
-         "QuesNo": "16",
+         "QuesNo": "17",
          "ques": "How can I withdraw my cash?",
          "ans": "You can withdraw your cash via paytm, phonePe, google pay"
       }
