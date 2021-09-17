@@ -29,7 +29,8 @@
       "QuesNo": "6",
        "ques": "6) What is the minimum withdrawal?",
          "ans": "Minimum withdrawal is only 50.00 Rs."
-      },     {
+      },  
+      {
       "QuesNo": "7",
        "ques": "7) If I don`t have an account, then can I able to play songs?",
          "ans": "No, without an account, you will not be able to play songs."
@@ -64,3 +65,5 @@
        "ques": "13) How much time it will to complete the transaction?",
          "ans": "It will take 1-2 working days to complete the transaction. In case you will not get your amount in your account. You can contact us at info.champtech1@gmail.com. We will definitely help you."
       }
+      ]
+}
