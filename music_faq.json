@@ -1,1 +1,66 @@
-
+{
+   "faq":[
+      {
+         "QuesNo": "1",
+         "ques": "1) What makes this app special?",
+         "ans": "McCO Music App is first ever earning music app and audio and video songs in one app makes it special and different from other apps."
+      },   
+     {
+      "QuesNo": "2",
+       "ques": "2) Are we make real money by just listening audios/videos?",
+         "ans": "Sure, you can make money just by listening audio/video songs"
+      },
+      {
+        "QuesNo": "3",
+         "ques": "3) How much money I make by listening one audio/video?",
+         "ans": "One audio = 30 SofCoins, which is equal to 3 paise. In future, there will be increment in the prize."
+      },
+      {
+         "QuesNo": "4",
+         "ques": "What is sofcoin?",
+         "ans": "Sofcoin is a common currency for all the apps owned by SofTech. It is a virtual currency which  is a basically a coin."
+      },
+      {
+         "QuesNo": "5",
+         "ques": "5) Is there any other way to make money other than listening songs?",
+         "ans": "Yes, there is one more option through spin the wheel. You will get one free spin daily. And also by seen ads you must be rewarded another spin to earn if available."
+      },   
+     {
+      "QuesNo": "6",
+       "ques": "6) What is the minimum withdrawal?",
+         "ans": "Minimum withdrawal is only 50.00 Rs."
+      },     {
+      "QuesNo": "7",
+       "ques": "7) If I don`t have an account, then can I able to play songs?",
+         "ans": "No, without an account, you will not be able to play songs."
+      },
+      {
+         "QuesNo": "8",
+         "ques": "8) Can I earn money without creating an account?",
+         "ans": "No, you should create an account to earn money, otherwise you will not be able to earn money."
+      },   
+     {
+      "QuesNo": "9",
+       "ques": "9) Can I make money having account but no internet connection?",
+         "ans": "Sorry, we will update your money at real time so, there should be internet connection with account also."
+      },
+      {
+         "QuesNo": "10",
+         "ques": "10) How can I withdraw money into my account?",
+         "ans": "Withdrawal process is very simple. You can withdraw your amount by paytm, phonePe, Google Pay"
+      },   
+     {
+      "QuesNo": "11",
+       "ques": "11) Can I earn money through ads?",
+         "ans": "No, you will only rewarded a free spin after seeing the ads. You cannot directly make money through ads if available."
+      },
+      {
+         "QuesNo": "12",
+         "ques": "12) If I withdraw amount at wrong number, then how you will help me?",
+         "ans": "Sorry, we can`t help you in this case. Make sure to enter your paytm number correctly and revise it. In case, transaction is not completed, then you will send us email at info.champtech1@gmail.com, we will then send your transaction to another number after confirming the another number."
+      },   
+     {
+      "QuesNo": "13",
+       "ques": "13) How much time it will to complete the transaction?",
+         "ans": "It will take 1-2 working days to complete the transaction. In case you will not get your amount in your account. You can contact us at info.champtech1@gmail.com. We will definitely help you."
+      }
