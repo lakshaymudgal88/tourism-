@@ -1,1 +1,34 @@
-
+{
+   "mccoQuiz":[
+      {
+         "ques_no": "1",
+         "ques_img_url": "https://drive.google.com/uc?id=1wWSaw5SviHqQ0jgsP4k4WV4hoGT7qmN0",
+         "ans": "plastic"
+      },
+      {
+         "ques_no": "2",
+         "ques_img_url": "https://drive.google.com/uc?id=1wWSaw5SviHqQ0jgsP4k4WV4hoGT7qmN0",
+         "ans": "plastic"
+      },
+      {
+         "ques_no": "3",
+         "ques_img_url": "https://drive.google.com/uc?id=1wWSaw5SviHqQ0jgsP4k4WV4hoGT7qmN0",
+         "ans": "plastic"
+      },
+      {
+         "ques_no": "4",
+         "ques_img_url": "https://drive.google.com/uc?id=1wWSaw5SviHqQ0jgsP4k4WV4hoGT7qmN0",
+         "ans": "plastic"
+      },
+      {
+         "ques_no": "5",
+         "ques_img_url": "https://drive.google.com/uc?id=1wWSaw5SviHqQ0jgsP4k4WV4hoGT7qmN0",
+         "ans": "plastic"
+      },
+      {
+         "ques_no": "6",
+         "ques_img_url": "https://drive.google.com/uc?id=1wWSaw5SviHqQ0jgsP4k4WV4hoGT7qmN0",
+         "ans": "plastic"
+      }
+   ]
+}
