@@ -27,43 +27,143 @@
       },
       {
          "ques_no": "6",
-         "ques_img_url": "https://drive.google.com/uc?id=1N8jxZsfFu83ic9mCMKzNIiQaNJ7WyGUp",
-         "ans": "conga"
+         "ques_img_url": "https://drive.google.com/uc?id=1SSHMAXjesULgSAKNAQaaEXhHyassrMRm",
+         "ans": "piano"
       },
       {
          "ques_no": "7",
-         "ques_img_url": "https://drive.google.com/uc?id=1NUC5xpGByzAAx7YFHOSwNq183Bj6zB_J",
-         "ans": "maracas"
+         "ques_img_url": "https://drive.google.com/uc?id=1SHUwlrfvo5rou5VG_Xh42OXnd8x2fm2Y",
+         "ans": "accordion"
       },
       {
          "ques_no": "8",
-         "ques_img_url": "https://drive.google.com/uc?id=1Nf5ARrIbNN86U2q_KNPIOAj0RmCYXP0r",
-         "ans": "trumpet"
+         "ques_img_url": "https://drive.google.com/uc?id=1T3Mig6rxNzrSoVHA-Zyl-fP8aWdyCbpz",
+         "ans": "alphorn"
       },
       {
          "ques_no": "9",
-         "ques_img_url": "https://drive.google.com/uc?id=1NVL0esiE8fiNJ8NVOCbXGFQn5rkFjII9",
-         "ans": "violin"
+         "ques_img_url": "https://drive.google.com/uc?id=1PGFbpu0LjNRN_BJicnw24ZCPXld0sIQ5",
+         "ans": "bagpipes"
       },
       {
          "ques_no": "10",
-         "ques_img_url": "https://drive.google.com/uc?id=1NSojWe2GqQEWDuyZuNCNYLzUZDo33PqN",
-         "ans": "xylophone"
+         "ques_img_url": "https://drive.google.com/uc?id=1T8SzdL-BIEuUurchHIYfuXf5mCkN4jnf",
+         "ans": "bugle"
       },
       {
-         "ques_no": "8",
-         "ques_img_url": "https://drive.google.com/uc?id=1Nf5ARrIbNN86U2q_KNPIOAj0RmCYXP0r",
-         "ans": "trumpet"
+         "ques_no": "11",
+         "ques_img_url": "https://drive.google.com/uc?id=1PeFjDYeXQfTCToBNXo0tjnAkCGxxWeFa",
+         "ans": "cimbalom"
       },
       {
-         "ques_no": "9",
-         "ques_img_url": "https://drive.google.com/uc?id=1NVL0esiE8fiNJ8NVOCbXGFQn5rkFjII9",
-         "ans": "violin"
+         "ques_no": "12",
+         "ques_img_url": "https://drive.google.com/uc?id=1POd0yjr_BJ_oM9qz_szGGGzsu0R2d6IO",
+         "ans": "clarinet"
       },
       {
-         "ques_no": "10",
-         "ques_img_url": "https://drive.google.com/uc?id=1NSojWe2GqQEWDuyZuNCNYLzUZDo33PqN",
-         "ans": "xylophone"
+         "ques_no": "13",
+         "ques_img_url": "https://drive.google.com/uc?id=1PjCZkhaAQP_BapFLfoyBTWdInOfLtKFz",
+         "ans": "cymbal"
+      },
+      {
+         "ques_no": "14",
+         "ques_img_url": "https://drive.google.com/uc?id=1PPGlucIV3JqlvE-ptmcnD8q22peTqhsE",
+         "ans": "drumset"
+      },
+      {
+         "ques_no": "15",
+         "ques_img_url": "https://drive.google.com/file/d/1POdBDDxXnQinZSIyvXUc09RW0ZUChvtU",
+         "ans": "flute"
+      },
+      {
+         "ques_no": "16",
+         "ques_img_url": "https://drive.google.com/uc?id=1SDowYP4C7kYdAe7APBGh25ja3QdsVqID",
+         "ans": "gong"
+      },
+      {
+         "ques_no": "17",
+         "ques_img_url": "https://drive.google.com/uc?id=1Pp4ewnhmHZ4-4kLpURPaEMdIMHvDydKz",
+         "ans": "guitar"
+      },
+      {
+         "ques_no": "18",
+         "ques_img_url": "https://drive.google.com/uc?id=1Pwdf1YtWgBdkg8f1Ed2-XJYOT2_uNNQf",
+         "ans": "harmonica"
+      },
+      {
+         "ques_no": "19",
+         "ques_img_url": "https://drive.google.com/uc?id=1POd0yjr_BJ_oM9qz_szGGGzsu0R2d6IO",
+         "ans": "clarinet"
+      },
+      {
+         "ques_no": "20",
+         "ques_img_url": "https://drive.google.com/uc?id=1SEsmKW5sUL-q71LKhRyGIoMA06w03YnH",
+         "ans": "harp"
+      },
+      {
+         "ques_no": "21",
+         "ques_img_url": "https://drive.google.com/uc?id=1PKqJarBFuSOw_fMdCWEX_OnjsSoqDVro",
+         "ans": "keyboard"
+      },
+      {
+         "ques_no": "22",
+         "ques_img_url": "https://drive.google.com/uc?id=1P_tg3EtOqQ4dBjeoPsNmlKU13hqYN8mr",
+         "ans": "metallophone"
+      },
+      {
+         "ques_no": "23",
+         "ques_img_url": "https://drive.google.com/uc?id=1PjipgFJFonzI76ejiqR6Agz9wdewSwza",
+         "ans": "microphone"
+      },
+      {
+         "ques_no": "24",
+         "ques_img_url": "https://drive.google.com/uc?id=1T3qnJUTZy-G8AlRzjSAbJfsnz0Bfhs4q",
+         "ans": "panflute"
+      },
+      {
+         "ques_no": "25",
+         "ques_img_url": "https://drive.google.com/uc?id=1PO4Kg5AiV_K00Kst00yFu1ImArJlLP3_",
+         "ans": "recorder"
+      },
+      {
+         "ques_no": "26",
+         "ques_img_url": "https://drive.google.com/uc?id=1PpXpobTrw8fWsNpZ5WRoLyZEf2amFiHM",
+         "ans": "sexophone"
+      },
+      {
+         "ques_no": "27",
+         "ques_img_url": "https://drive.google.com/uc?id=1Pw4mOqgjPYljcukRzxfy1h-Aqj_u9TG7",
+         "ans": "sitar"
+      },
+      {
+         "ques_no": "28",
+         "ques_img_url": "https://drive.google.com/uc?id=1SUCLQR16h8BRr5WXunaoje40Oe7ul2Tg",
+         "ans": "strings"
+      },
+      {
+         "ques_no": "29",
+         "ques_img_url": "https://drive.google.com/uc?id=1PokmM6ACoFqlgkDXg6UvZo4aguw37DpB",
+         "ans": "tambourine"
+      },
+      {
+         "ques_no": "30",
+         "ques_img_url": "https://drive.google.com/uc?id=1T5LQOoeO1DOgJy1aJvk3FhKC_Xi3_XEs",
+         "ans": "tango"
+      },
+      {
+         "ques_no": "31",
+         "ques_img_url": "https://drive.google.com/uc?id=1OMbaXUSBbvX0c5uEU-QH4Ph0-OhYah9R",
+         "ans": "timpani"
+      },
+      {
+         "ques_no": "32",
+         "ques_img_url": "https://drive.google.com/uc?id=1PrRSAaE8sjA41dOxZCgR-k-6wCKnqfC1",
+         "ans": "trombone"
+      },
+      {
+         "ques_no": "33",
+         "ques_img_url": "https://drive.google.com/uc?id=1TCsUOomZ4_jwJ3cWAcroB7sy1HgmiiZb",
+         "ans": "tuba"
       }
    ]
 }
