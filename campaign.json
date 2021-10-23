@@ -1,9 +1,9 @@
 {
   "campaign": [
    {
-     campaignType: "YouTube",
-     url: "",
-     name: ""
+     "campaignType": "YouTube",
+     "url": "",
+     "name": ""
     }
   ]
 }
