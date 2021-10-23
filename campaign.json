@@ -1,7 +1,7 @@
 {
   "campaign": [
    {
-     "campaignType": "YouTube",
+     "campaignType": "youtubeCampaign",
      "url": "https://youtu.be/NbNv5WamFQU"
     }
   ]
