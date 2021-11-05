@@ -1,16 +1,12 @@
 {
   "version": [
    {
-     "versionName": "1.4.2",
-     "message": "1) Introducing new UI for whole App
-2) New Spin Wheel to get more chance to get coins
-3) Limits exceeds from 40 to 50 songs
-4) Now there is no boring and always correct ques and ans, From this update you can participate in the quiz and if you deserve you can earn more
-5) Now daily stats are available for you like, how many coins you earn in a particular day how many songs you listen in a particular day how many day streak you can do by listening to music
-6) Bug fixes for Android 11
-7) Now you can add your background image in Home Screen
-8) Now you can edit your withdrawal number without verification
-9) Now you can check the history of your withdrawal amounts",
+     "versionName": "1.4.3",
+     "message": "1) No more earning till next update in this app
+2)  Introducing new UI for whole App
+3) can enjoy music like previously
+4) Bug fixes for Android 11
+5) Now you can add your background image in Home Screen",
     "days": "5"
     }
   ]
